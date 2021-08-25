@@ -1,6 +1,6 @@
 #changes made at remote level
 *** Settings ***
-Documentation   trails
+Documentation   master
 
 *** Variables ***
 
