@@ -1,5 +1,6 @@
 #changes made at remote level
 *** Settings ***
+Documentation   trails
 
 *** Variables ***
 

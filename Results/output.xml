@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.3 (Python 3.9.5 on win32)" generated="20210825 10:36:45.157" rpa="false" schemaversion="2">
+<suite id="s1" name="Amazon" source="C:\development\robot-scripts\git-demo\Tests\amazon.robot">
+<test id="s1-t1" name="Feature 2 test">
+<kw name="Log" library="BuiltIn">
+<arg>testing feature 2 https://www.wowso.me/blog/technology-in-banking</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20210825 10:36:45.192" level="INFO">testing feature 2 https://www.wowso.me/blog/technology-in-banking</msg>
+<status status="PASS" starttime="20210825 10:36:45.192" endtime="20210825 10:36:45.192"/>
+</kw>
+<status status="PASS" starttime="20210825 10:36:45.187" endtime="20210825 10:36:45.192"/>
+</test>
+<status status="PASS" starttime="20210825 10:36:45.157" endtime="20210825 10:36:45.192"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Amazon">Amazon</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
